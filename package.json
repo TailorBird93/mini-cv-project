@@ -1,0 +1,19 @@
+{
+  "name": "mini-cv-project",
+  "version": "1.0.0",
+  "description": "Mini project for Code Institute Level 5 Diploma in Web Application Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TailorBird93/mini-cv-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TailorBird93/mini-cv-project/issues"
+  },
+  "homepage": "https://github.com/TailorBird93/mini-cv-project#readme"
+}
